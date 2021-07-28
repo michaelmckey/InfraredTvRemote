@@ -1,2 +1,2 @@
 # InfraredTvRemote
-Code associated with the Infrared TV Remote instructable
+Code is currently untested due to other ongoing projects but it might still be helpful
